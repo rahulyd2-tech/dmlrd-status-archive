@@ -126,7 +126,8 @@
                                                      200
                                                  ]
                                   }
-                   },                   {
+                   },
+                   {
                        "id":  "dmlrdmotorsports-in",
                        "name":  "dmlrdmotorsports.in",
                        "url":  "https://dmlrdmotorsports.in/",
@@ -318,6 +319,18 @@
                        "expect":  {
                                       "status":  [
                                                      403
+                                                 ]
+                                  }
+                   },
+                   {
+                       "id":  "dmlrdventures-com",
+                       "name":  "dmlrdventures.com",
+                       "url":  "https://dmlrdventures.com/",
+                       "group":  "websites",
+                       "host":  "xtreme2",
+                       "expect":  {
+                                      "status":  [
+                                                     200
                                                  ]
                                   }
                    }
